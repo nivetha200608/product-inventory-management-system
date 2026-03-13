@@ -31,5 +31,4 @@ This system allows users to register, login and perform product management opera
 1. Clone the repository  
 2. Install dependencies using `npm install`  
 3. Start the server using `npm start` or `nodemon server.js`  
-4. Open Postman and test the APIs  
-5. Server will run on `http://localhost:5000`
+
